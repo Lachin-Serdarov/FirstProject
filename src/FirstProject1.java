@@ -62,7 +62,7 @@ public class FirstProject1 {
         int a1 = scanner.nextInt();
         int b2 = scanner.nextInt();
 
-        System.out.println("Tolama: " + (a1+b2));
+        System.out.println("Toplama: " + (a1+b2));
         System.out.println("Çıxma: " + (a1-b2));
         System.out.println("Vurma: " + (a1*b2));
         System.out.println("Bölmə: " + (a1/b2));
